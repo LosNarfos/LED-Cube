@@ -21,7 +21,7 @@ LST_DIR = $(OUT_DIR)/lst
 
 # Target file name (without extension)
 #
-TARGET = $(OUT_DIR)/FirstTest
+TARGET = $(OUT_DIR)/LED-Cube
 
 # used board (for openocd)
 #

@@ -70,11 +70,15 @@ void lcd_Init(uint8_t lines, uint8_t columns, uint8_t linemode)
 
 	// Enable 4-Bit Mode
 	lcd_Out( LCD_SET_FUNCTION | LCD_FUNCTION_4BIT );									// 4-Bit Mode
+	delay_ms(3);
 	lcd_Command(LCD_SET_FUNCTION | LCD_FUNCTION_4BIT | LCD_FUNCTION_2LINE |	LCD_FUNCTION_5X8);	// 4-bit Mode / 2 Lines / 5x8
+	delay_ms(3);
 	lcd_Command(LCD_SET_DISPLAY | LCD_DISPLAY_ON | LCD_CURSOR_ON | LCD_BLINKING_ON);			// Display on / Cursor on / Blinking on
+	delay_ms(3);
 	lcd_Command(LCD_CLEAR_DISPLAY);
 	delay_ms(3);
 	lcd_Command(LCD_SET_ENTRY |	LCD_ENTRY_INCREASE | LCD_ENTRY_NOSHIFT);						// Cursor increment / no Scrolling														// clear display
+	delay_ms(3);
 }
 
 void lcd_Clear(void) {
