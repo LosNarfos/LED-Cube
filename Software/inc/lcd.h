@@ -48,8 +48,8 @@
 
 #define LCD_DDADR_LINE1         0x00//0x00
 #define LCD_DDADR_LINE2         0x40//0x40
-#define LCD_DDADR_LINE3         0x14//0x10
-#define LCD_DDADR_LINE4         0x54//0x50
+#define LCD_DDADR_LINE3         0x10//0x14
+#define LCD_DDADR_LINE4         0x50//0x54
 
 // Clear Display -------------- 0b00000001
 #define LCD_CLEAR_DISPLAY       0x01
