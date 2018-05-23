@@ -25,7 +25,7 @@ void discovery_basic_init(void)
 	 *
 	 * - Clock für Port A und D aktivieren
 	 * - LED Pins auf Output
-	 * - LED Pins auf pushpull
+	 * - LED Pins auf pushpullb
 	 * - LED Pins auf Low Speed
 	 * - LED Pins ohne PullUp/PullDown
 	 */

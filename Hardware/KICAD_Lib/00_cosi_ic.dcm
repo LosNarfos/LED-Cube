@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC591
+D 8-Channel Constant-Current LED Sink Driver
+K Driver, LED, 8 Channel
+$ENDCMP
+#
+#End Doc Library

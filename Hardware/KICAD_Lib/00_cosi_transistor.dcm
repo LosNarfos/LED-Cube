@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI4463
+D -18A ld, -20Vds, P-Channel Logic Level MOSFET, 10mOhm Ron, 54nCg(typ), SO-8
+K N-Channel MOSFET Logic-Level
+$ENDCMP
+#
+#End Doc Library

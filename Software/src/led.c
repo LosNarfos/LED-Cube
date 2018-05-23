@@ -78,6 +78,11 @@ void led_init(void)
 
 	// enable SPI2
 	SPI2->CR1 |= SPI_CR1_SPE;
+
+	// SPI2 dma configuration
+
+	// DMA CHannel 0, Stream 3 for SPI2_tx
+	RCC->AHB1ENR |= RCC_AHB1ENR_DMA1EN;
 }
 
 void led_send(uint8_t data)
