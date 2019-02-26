@@ -11,30 +11,23 @@
 #define SOFTWARE_INC_LED_H_
 
 
-// pinout according to TPIC6C595
+// Using SPI2 mapped on GPIOB
 #define LED_Port		GPIOB
-#define LED_G			10		// output enable, active low
-#define LED_CRL			11		// Shift register clear, active low
-#define LED_RCK			12		// register clock
-#define LED_SRCK		13		// shift register clock
-#define LED_SEROUT		14		// serial data out
-#define LED_SERIN		15		// serial data in
-
-
-#define SPI_Port		GPIOB
-#define SPI_SCK_Pin		13
-#define SPI_MOSI_Pin	15
-#define SPI_MISO_Pin	14
-#define SPI_NSS_Pin		12
+#define LED_OE			11		// Output enable
+#define LED_SCK			13		// serial clock
+#define LED_LE			14		// Latch Enable
+#define LED_MOSI		15		// serial data out
 
 
 /*
  * initializes the SPI interface used for shifting out led data to cube
  */
-void led_init(void);
+
+void led_init(uint8_t data[], uint8_t length);
 void led_send(uint8_t data);
 void led_clear(void);
 void led_RCK(void);
 void led_enable(void);
+void led_sendLayer(uint8_t mux, uint8_t *data);
 
 #endif /* SOFTWARE_INC_LED_H_ */

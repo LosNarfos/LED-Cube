@@ -602,7 +602,7 @@ F 3 "" H 3500 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U2
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U2
 U 1 1 5AFEC385
 P 5650 1700
 F 0 "U2" H 5300 2250 50  0000 C CNN
@@ -613,7 +613,7 @@ F 3 "" H 5650 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U1
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U1
 U 1 1 5AFEC2CD
 P 3500 1700
 F 0 "U1" H 3150 2250 50  0000 C CNN
@@ -808,7 +808,7 @@ F 3 "" H 7750 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U4
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U4
 U 1 1 5B2E821B
 P 9900 1700
 F 0 "U4" H 9550 2250 50  0000 C CNN
@@ -819,7 +819,7 @@ F 3 "" H 9900 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U3
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U3
 U 1 1 5B2E8222
 P 7750 1700
 F 0 "U3" H 7400 2250 50  0000 C CNN
@@ -1058,7 +1058,7 @@ F 3 "" H 3500 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U6
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U6
 U 1 1 5B3CA4F6
 P 5650 4200
 F 0 "U6" H 5300 4750 50  0000 C CNN
@@ -1069,7 +1069,7 @@ F 3 "" H 5650 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U5
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U5
 U 1 1 5B3CA4FD
 P 3500 4200
 F 0 "U5" H 3150 4750 50  0000 C CNN
@@ -1264,7 +1264,7 @@ F 3 "" H 7750 3500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U8
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U8
 U 1 1 5B3CA566
 P 9900 4200
 F 0 "U8" H 9550 4750 50  0000 C CNN
@@ -1275,7 +1275,7 @@ F 3 "" H 9900 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 00_cosi_ic:TLC591 U7
+L lowSideSwitch-rescue:TLC591-00_cosi_ic U7
 U 1 1 5B3CA56D
 P 7750 4200
 F 0 "U7" H 7400 4750 50  0000 C CNN
@@ -1742,4 +1742,15 @@ Wire Wire Line
 Connection ~ 4800 6400
 NoConn ~ 3500 7100
 NoConn ~ 4700 7100
+$Comp
+L Device:R R?
+U 1 1 5B2F66FC
+P 5300 2700
+F 0 "R?" V 5400 2700 50  0000 C CNN
+F 1 "120" V 5300 2700 50  0000 C CNN
+F 2 "" V 5230 2700 50  0001 C CNN
+F 3 "~" H 5300 2700 50  0001 C CNN
+	1    5300 2700
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
