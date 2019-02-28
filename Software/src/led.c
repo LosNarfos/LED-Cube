@@ -13,6 +13,47 @@ void spi_config(void);
 void gpio_config(void);
 void dma_config(uint8_t *sourceAddress, uint8_t length);
 
+volatile uint32_t test = 0;
+volatile int temp;
+
+void TIM4_IRQHandler(void)
+{
+   /*
+	if(test == 0)
+	{
+		GPIOB->BSRR = 1<<(12+16);
+		test = 1;
+	}
+	else
+	{
+		GPIOB->BSRR = 1<<(12);
+		test = 0;
+	}
+	*/
+	// shut off DMA Stream to SPI-Interface (should be off by now anyway)
+
+	DMA1_Stream4->CR &= ~DMA_SxCR_EN;
+	while ((DMA1_Stream4->CR & DMA_SxCR_EN) == 1);
+
+	//
+	//DMA_HIFCR_C  DMA_HISR_HTIF4 | DMA_HISR_FEIF4 |
+	DMA1->HIFCR = DMA_HISR_TCIF4;
+	DMA1_Stream4->NDTR = 25;
+    DMA1_Stream4->CR |= DMA_SxCR_EN;
+
+    // start timer for LATCH witch gives a 2µs pulse after DMA transfer complete (after ~40µs)
+    TIM12->SR = 0x00;
+    TIM12->CR1 |= TIM_CR1_CEN;
+
+    // start timer for OE which gives a 50µs low pulse after DMA and LATCH complete to prevent LED-ghosting (after ~45µs)
+    TIM2->SR = 0x00;
+    TIM2->CR1 |= TIM_CR1_CEN;
+
+
+
+    // clear IRQ flag
+    TIM4->SR &= ~TIM_SR_UIF;
+}
 
 void gpio_config(void)
 {
@@ -34,6 +75,7 @@ void gpio_config(void)
 	LED_Port->MODER |= GPIO_MODER_MODE13_1;		// LED_CLK 		alternate function	SPI_SCK
 	LED_Port->MODER |= GPIO_MODER_MODE14_1;		// LED_LE		alternate function	TIM12_CH1
 	LED_Port->MODER |= GPIO_MODER_MODE15_1;		// LED_SDI		alternate function	SPI_MOSI
+	LED_Port->MODER |= GPIO_MODER_MODE12_0;		// Debug Pin 	Output
 
 	LED_Port->OTYPER &= ~(GPIO_OTYPER_OT11_Msk | GPIO_OTYPER_OT13_Msk | GPIO_OTYPER_OT14_Msk | GPIO_OTYPER_OT15_Msk);
 	LED_Port->OTYPER &= ~GPIO_OTYPER_OT11;		// LED_OE		output push-pull
@@ -109,6 +151,13 @@ void timer_config(void)
     TIM12->CCMR1 = TIM_CCMR1_OC1M_0 | TIM_CCMR1_OC1M_1 |TIM_CCMR1_OC1M_2;	//pwm mode 111, active high
     TIM12->CCER = TIM_CCER_CC1E;			// activate compare output channel 1
     TIM12->EGR |= TIM_EGR_UG;				// update event
+
+    // Timer XX for starting dma transfer
+    RCC->APB1ENR |= RCC_APB1ENR_TIM4EN;		// activate clock
+    TIM4->DIER |= TIM_DIER_UIE;				// activate interrupt on AAR overflow
+    TIM4->PSC = 84;							// prescaler to 84 -> one tick every µs
+    TIM4->ARR = 10000;						// interrupt through overflow every 10ms
+    TIM4->EGR |= TIM_EGR_UG;				// update event
 }
 
 void dma_config(uint8_t *sourceAddress, uint8_t length)
@@ -143,37 +192,24 @@ void dma_config(uint8_t *sourceAddress, uint8_t length)
 
 }
 
+
+void led_stop(void)
+{
+	TIM4->CR1 &= ~TIM_CR1_CEN;
+	NVIC_DisableIRQ(TIM4_IRQn);
+}
+
+void led_start(void)
+{
+	TIM4->SR &= ~TIM_SR_UIF;		// clear interrupt flag
+	NVIC_EnableIRQ(TIM4_IRQn);		// activate interrupt
+	TIM4->CR1 |= TIM_CR1_CEN;		// enable timer
+}
+
 void led_init(uint8_t data[], uint8_t length)
 {
 	gpio_config();
 	spi_config();
-	timer_config();
 	dma_config(data, length);
-}
-
-void led_outputEnable(void)
-{
-	LED_Port->BSRR = 1<<(LED_OE+16);
-}
-
-void led_sendLayer(uint8_t mux, uint8_t data[])
-{
-	// shut off DMA Stream to SPI-Interface (should be off by now anyway)
-	DMA1_Stream4->CR &= ~DMA_SxCR_EN;
-	while ((DMA1_Stream4->CR & DMA_SxCR_EN) == 1);
-
-	//
-	//DMA_HIFCR_C  DMA_HISR_HTIF4 | DMA_HISR_FEIF4 |
-	DMA1->HIFCR = DMA_HISR_TCIF4;
-	DMA1_Stream4->NDTR = 25;
-    DMA1_Stream4->CR |= DMA_SxCR_EN;
-
-    // start timer for LATCH witch gives a 2µs pulse after DMA transfer complete (after ~40µs)
-    TIM12->SR = 0x00;
-    TIM12->CR1 |= TIM_CR1_CEN;
-
-    // start timer for OE which gives a 10µs low pulse after DMA and LATCH complete to prevent LED-ghosting (after ~45µs)
-    TIM2->SR = 0x00;
-    TIM2->CR1 |= TIM_CR1_CEN;
-
+	timer_config();
 }

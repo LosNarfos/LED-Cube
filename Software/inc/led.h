@@ -24,10 +24,7 @@
  */
 
 void led_init(uint8_t data[], uint8_t length);
-void led_send(uint8_t data);
-void led_clear(void);
-void led_RCK(void);
-void led_enable(void);
-void led_sendLayer(uint8_t mux, uint8_t *data);
+void led_start(void);
+void led_stop(void);
 
 #endif /* SOFTWARE_INC_LED_H_ */

@@ -9,7 +9,7 @@
 
 volatile uint32_t counter = 0;
 volatile uint32_t us = 0;
-volatile uint32_t test = 0;
+//volatile uint32_t test = 0;
 
 volatile uint8_t mux = 0;
 uint8_t data[] = { 0x00, 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07,
@@ -24,8 +24,9 @@ void SysTick_Handler(void)
 {
 	// called every 1ms
 	counter++;
+	//led_sendLayer(mux, data2);
 
-
+	/*
 	if(test == 0)
 	{
 		led_sendLayer(mux, data2);
@@ -38,7 +39,7 @@ void SysTick_Handler(void)
 		test = 0;
 		//LED_Port->BSRR = 1<<(LED_LE);
 		//LED_Port->BSRR = 1<<(LED_LE);
-	}
+	}*/
 }
 
 /*
@@ -103,6 +104,11 @@ int main(void)
     //lcd_String("Ich_brauch'_mal_einen_standardsatz_mit_extra_vielen_Zeichen");
 
     led_init(data, (uint8_t)25);
+
+
+    led_start();
+    delay_ms(5);
+
 
     while(1) {
     }
