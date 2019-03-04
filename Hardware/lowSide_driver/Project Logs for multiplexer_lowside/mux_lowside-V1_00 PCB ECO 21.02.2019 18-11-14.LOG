@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR4_1
+Added Room: Name=mux_lowside-V1_00

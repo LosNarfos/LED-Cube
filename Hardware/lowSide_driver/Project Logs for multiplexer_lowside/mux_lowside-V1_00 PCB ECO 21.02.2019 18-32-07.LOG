@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDO Pin=U4-14
+Removed Pin From Net: NetName=SDO Pin=U5-2
+Added Pin To Net: NetName=NetU4_14 Pin=U4-14
+Added Pin To Net: NetName=NetU4_14 Pin=U5-2
+Added Net: Name=NetU4_14
+Added Room: Name=mux_lowside-V1_00

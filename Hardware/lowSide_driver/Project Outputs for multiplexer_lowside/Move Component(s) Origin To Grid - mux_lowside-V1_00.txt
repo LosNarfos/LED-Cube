@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : C:\local\Libraries\Altium\SchLib\mux_lowside-V1_00.PcbDoc
+Date         : 09.01.2019
+Time         : 10:33:56
+Time Elapsed : 00:00:00

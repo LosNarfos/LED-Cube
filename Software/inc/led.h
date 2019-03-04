@@ -23,7 +23,7 @@
  * initializes the SPI interface used for shifting out led data to cube
  */
 
-void led_init(uint8_t data[], uint8_t length);
+void led_init(uint8_t data[][3], uint8_t length);
 void led_start(void);
 void led_stop(void);
 

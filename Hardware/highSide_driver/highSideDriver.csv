@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**,REF**";"MountingHole_3.5mm";4;"MountingHole_3.5mm";;;
+2;"C4,C5,C6,C7,C8,C9,C10,C11";"CP_Radial_D7.5mm_P2.50mm";8;"10µF";;;
+3;"C12,C2";"CP_Radial_D13.0mm_P5.00mm";2;"33µF";;;
+4;"C13,C3";"C_Disc_D11.0mm_W5.0mm_P5.00mm";2;"100nF";;;
+5;"J3,J5";"PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal";2;"Conn_01x02";;;
+6;"U1";"DIP-16_W7.62mm";1;"TPIC6C595";;;
+7;"J4";"PhoenixContact_MSTBA_2,5_8-G-5,08_1x08_P5.08mm_Horizontal";1;"Conn_01x08";;;
+8;"Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8";"SOIC-8_3.9x4.9mm_P1.27mm";8;"SI4463";;;
+9;"R1,R2,R3,R4,R9,R10,R11,R12";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";8;"1k";;;
+10;"R17";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"100k";;;
+11;"C1";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"100nF";;;
+12;"R5,R6,R7,R8,R13,R14,R15,R16";"R_0603_1608Metric_Pad0.99x1.00mm_HandSolder";8;"120";;;
+13;"J1,J2";"IDC-Header_2x05_P2.54mm_Vertical";2;"Conn_01x10";;;

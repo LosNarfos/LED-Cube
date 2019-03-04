@@ -18,24 +18,10 @@ volatile int temp;
 
 void TIM4_IRQHandler(void)
 {
-   /*
-	if(test == 0)
-	{
-		GPIOB->BSRR = 1<<(12+16);
-		test = 1;
-	}
-	else
-	{
-		GPIOB->BSRR = 1<<(12);
-		test = 0;
-	}
-	*/
 	// shut off DMA Stream to SPI-Interface (should be off by now anyway)
-
 	DMA1_Stream4->CR &= ~DMA_SxCR_EN;
 	while ((DMA1_Stream4->CR & DMA_SxCR_EN) == 1);
 
-	//
 	//DMA_HIFCR_C  DMA_HISR_HTIF4 | DMA_HISR_FEIF4 |
 	DMA1->HIFCR = DMA_HISR_TCIF4;
 	DMA1_Stream4->NDTR = 25;
@@ -48,8 +34,6 @@ void TIM4_IRQHandler(void)
     // start timer for OE which gives a 50µs low pulse after DMA and LATCH complete to prevent LED-ghosting (after ~45µs)
     TIM2->SR = 0x00;
     TIM2->CR1 |= TIM_CR1_CEN;
-
-
 
     // clear IRQ flag
     TIM4->SR &= ~TIM_SR_UIF;
@@ -206,7 +190,7 @@ void led_start(void)
 	TIM4->CR1 |= TIM_CR1_CEN;		// enable timer
 }
 
-void led_init(uint8_t data[], uint8_t length)
+void led_init(uint8_t data[][3], uint8_t length)
 {
 	gpio_config();
 	spi_config();

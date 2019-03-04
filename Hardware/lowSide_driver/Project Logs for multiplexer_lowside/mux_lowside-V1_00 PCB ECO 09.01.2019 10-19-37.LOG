@@ -1,0 +1,838 @@
+Added Component: Designator=C1(CAPC3225X17M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL21A475KPFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "10159411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "10159411"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1608X10M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacity"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SAP-Nr."; Value = "11026540"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-55 .. 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Added Component: Designator=J1(61201021721)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61201021721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201021721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-2098-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1757268)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "1757268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MSTBA 2,5/ 4-G-5,08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1108-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J3(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J4(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J5(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J6(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J7(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J8(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J9(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=J10(61200821621)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nr. of positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61200821621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "no"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5395-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40 to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header Male"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608X06M_SILK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yaego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "RC0603FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES_330_0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "thick film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-50°C to 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC127P600X175-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Information 1"; Value = "8 Channel, serial input"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Information 2"; Value = "3-5V; 120mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TLC5916IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-22710-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Range"; Value = "-40..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED-Driver"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=J1-1
+Added Pin To Net: NetName=CLK Pin=U1-3
+Added Pin To Net: NetName=CLK Pin=U2-3
+Added Pin To Net: NetName=CLK Pin=U3-3
+Added Pin To Net: NetName=CLK Pin=U4-3
+Added Pin To Net: NetName=CLK Pin=U5-3
+Added Pin To Net: NetName=CLK Pin=U6-3
+Added Pin To Net: NetName=CLK Pin=U7-3
+Added Pin To Net: NetName=CLK Pin=U8-3
+Added Net: Name=CLK
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED0 Pin=J3-1
+Added Pin To Net: NetName=LED0 Pin=U1-5
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=J3-2
+Added Pin To Net: NetName=LED1 Pin=U1-6
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=J3-3
+Added Pin To Net: NetName=LED2 Pin=U1-7
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=J3-4
+Added Pin To Net: NetName=LED3 Pin=U1-8
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=J3-5
+Added Pin To Net: NetName=LED4 Pin=U1-9
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=J3-6
+Added Pin To Net: NetName=LED5 Pin=U1-10
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=J3-7
+Added Pin To Net: NetName=LED6 Pin=U1-11
+Added Net: Name=LED6
+Added Pin To Net: NetName=LED7 Pin=J3-8
+Added Pin To Net: NetName=LED7 Pin=U1-12
+Added Net: Name=LED7
+Added Pin To Net: NetName=LED8 Pin=J5-1
+Added Pin To Net: NetName=LED8 Pin=U3-5
+Added Net: Name=LED8
+Added Pin To Net: NetName=LED9 Pin=J5-2
+Added Pin To Net: NetName=LED9 Pin=U3-6
+Added Net: Name=LED9
+Added Pin To Net: NetName=LED10 Pin=J5-3
+Added Pin To Net: NetName=LED10 Pin=U3-7
+Added Net: Name=LED10
+Added Pin To Net: NetName=LED11 Pin=J5-4
+Added Pin To Net: NetName=LED11 Pin=U3-8
+Added Net: Name=LED11
+Added Pin To Net: NetName=LED12 Pin=J5-5
+Added Pin To Net: NetName=LED12 Pin=U3-9
+Added Net: Name=LED12
+Added Pin To Net: NetName=LED13 Pin=J5-6
+Added Pin To Net: NetName=LED13 Pin=U3-10
+Added Net: Name=LED13
+Added Pin To Net: NetName=LED14 Pin=J5-7
+Added Pin To Net: NetName=LED14 Pin=U3-11
+Added Net: Name=LED14
+Added Pin To Net: NetName=LED15 Pin=J5-8
+Added Pin To Net: NetName=LED15 Pin=U3-12
+Added Net: Name=LED15
+Added Pin To Net: NetName=LED16 Pin=J7-1
+Added Pin To Net: NetName=LED16 Pin=U5-5
+Added Net: Name=LED16
+Added Pin To Net: NetName=LED17 Pin=J7-2
+Added Pin To Net: NetName=LED17 Pin=U5-6
+Added Net: Name=LED17
+Added Pin To Net: NetName=LED18 Pin=J7-3
+Added Pin To Net: NetName=LED18 Pin=U5-7
+Added Net: Name=LED18
+Added Pin To Net: NetName=LED19 Pin=J7-4
+Added Pin To Net: NetName=LED19 Pin=U5-8
+Added Net: Name=LED19
+Added Pin To Net: NetName=LED20 Pin=J7-5
+Added Pin To Net: NetName=LED20 Pin=U5-9
+Added Net: Name=LED20
+Added Pin To Net: NetName=LED21 Pin=J7-6
+Added Pin To Net: NetName=LED21 Pin=U5-10
+Added Net: Name=LED21
+Added Pin To Net: NetName=LED22 Pin=J7-7
+Added Pin To Net: NetName=LED22 Pin=U5-11
+Added Net: Name=LED22
+Added Pin To Net: NetName=LED23 Pin=J7-8
+Added Pin To Net: NetName=LED23 Pin=U5-12
+Added Net: Name=LED23
+Added Pin To Net: NetName=LED24 Pin=J9-1
+Added Pin To Net: NetName=LED24 Pin=U7-5
+Added Net: Name=LED24
+Added Pin To Net: NetName=LED25 Pin=J9-2
+Added Pin To Net: NetName=LED25 Pin=U7-6
+Added Net: Name=LED25
+Added Pin To Net: NetName=LED26 Pin=J9-3
+Added Pin To Net: NetName=LED26 Pin=U7-7
+Added Net: Name=LED26
+Added Pin To Net: NetName=LED27 Pin=J9-4
+Added Pin To Net: NetName=LED27 Pin=U7-8
+Added Net: Name=LED27
+Added Pin To Net: NetName=LED28 Pin=J9-5
+Added Pin To Net: NetName=LED28 Pin=U7-9
+Added Net: Name=LED28
+Added Pin To Net: NetName=LED29 Pin=J9-6
+Added Pin To Net: NetName=LED29 Pin=U7-10
+Added Net: Name=LED29
+Added Pin To Net: NetName=LED30 Pin=J9-7
+Added Pin To Net: NetName=LED30 Pin=U7-11
+Added Net: Name=LED30
+Added Pin To Net: NetName=LED31 Pin=J9-8
+Added Pin To Net: NetName=LED31 Pin=U7-12
+Added Net: Name=LED31
+Added Pin To Net: NetName=LED32 Pin=J4-1
+Added Pin To Net: NetName=LED32 Pin=U2-5
+Added Net: Name=LED32
+Added Pin To Net: NetName=LED33 Pin=J4-2
+Added Pin To Net: NetName=LED33 Pin=U2-6
+Added Net: Name=LED33
+Added Pin To Net: NetName=LED34 Pin=J4-3
+Added Pin To Net: NetName=LED34 Pin=U2-7
+Added Net: Name=LED34
+Added Pin To Net: NetName=LED35 Pin=J4-4
+Added Pin To Net: NetName=LED35 Pin=U2-8
+Added Net: Name=LED35
+Added Pin To Net: NetName=LED36 Pin=J4-5
+Added Pin To Net: NetName=LED36 Pin=U2-9
+Added Net: Name=LED36
+Added Pin To Net: NetName=LED37 Pin=J4-6
+Added Pin To Net: NetName=LED37 Pin=U2-10
+Added Net: Name=LED37
+Added Pin To Net: NetName=LED38 Pin=J4-7
+Added Pin To Net: NetName=LED38 Pin=U2-11
+Added Net: Name=LED38
+Added Pin To Net: NetName=LED39 Pin=J4-8
+Added Pin To Net: NetName=LED39 Pin=U2-12
+Added Net: Name=LED39
+Added Pin To Net: NetName=LED40 Pin=J6-1
+Added Pin To Net: NetName=LED40 Pin=U4-5
+Added Net: Name=LED40
+Added Pin To Net: NetName=LED41 Pin=J6-2
+Added Pin To Net: NetName=LED41 Pin=U4-6
+Added Net: Name=LED41
+Added Pin To Net: NetName=LED42 Pin=J6-3
+Added Pin To Net: NetName=LED42 Pin=U4-7
+Added Net: Name=LED42
+Added Pin To Net: NetName=LED43 Pin=J6-4
+Added Pin To Net: NetName=LED43 Pin=U4-8
+Added Net: Name=LED43
+Added Pin To Net: NetName=LED44 Pin=J6-5
+Added Pin To Net: NetName=LED44 Pin=U4-9
+Added Net: Name=LED44
+Added Pin To Net: NetName=LED45 Pin=J6-6
+Added Pin To Net: NetName=LED45 Pin=U4-10
+Added Net: Name=LED45
+Added Pin To Net: NetName=LED46 Pin=J6-7
+Added Pin To Net: NetName=LED46 Pin=U4-11
+Added Net: Name=LED46
+Added Pin To Net: NetName=LED47 Pin=J6-8
+Added Pin To Net: NetName=LED47 Pin=U4-12
+Added Net: Name=LED47
+Added Pin To Net: NetName=LED48 Pin=J8-1
+Added Pin To Net: NetName=LED48 Pin=U6-5
+Added Net: Name=LED48
+Added Pin To Net: NetName=LED49 Pin=J8-2
+Added Pin To Net: NetName=LED49 Pin=U6-6
+Added Net: Name=LED49
+Added Pin To Net: NetName=LED50 Pin=J8-3
+Added Pin To Net: NetName=LED50 Pin=U6-7
+Added Net: Name=LED50
+Added Pin To Net: NetName=LED51 Pin=J8-4
+Added Pin To Net: NetName=LED51 Pin=U6-8
+Added Net: Name=LED51
+Added Pin To Net: NetName=LED52 Pin=J8-5
+Added Pin To Net: NetName=LED52 Pin=U6-9
+Added Net: Name=LED52
+Added Pin To Net: NetName=LED53 Pin=J8-6
+Added Pin To Net: NetName=LED53 Pin=U6-10
+Added Net: Name=LED53
+Added Pin To Net: NetName=LED54 Pin=J8-7
+Added Pin To Net: NetName=LED54 Pin=U6-11
+Added Net: Name=LED54
+Added Pin To Net: NetName=LED55 Pin=J8-8
+Added Pin To Net: NetName=LED55 Pin=U6-12
+Added Net: Name=LED55
+Added Pin To Net: NetName=LED56 Pin=J10-1
+Added Pin To Net: NetName=LED56 Pin=U8-5
+Added Net: Name=LED56
+Added Pin To Net: NetName=LED57 Pin=J10-2
+Added Pin To Net: NetName=LED57 Pin=U8-6
+Added Net: Name=LED57
+Added Pin To Net: NetName=LED58 Pin=J10-3
+Added Pin To Net: NetName=LED58 Pin=U8-7
+Added Net: Name=LED58
+Added Pin To Net: NetName=LED59 Pin=J10-4
+Added Pin To Net: NetName=LED59 Pin=U8-8
+Added Net: Name=LED59
+Added Pin To Net: NetName=LED60 Pin=J10-5
+Added Pin To Net: NetName=LED60 Pin=U8-9
+Added Net: Name=LED60
+Added Pin To Net: NetName=LED61 Pin=J10-6
+Added Pin To Net: NetName=LED61 Pin=U8-10
+Added Net: Name=LED61
+Added Pin To Net: NetName=LED62 Pin=J10-7
+Added Pin To Net: NetName=LED62 Pin=U8-11
+Added Net: Name=LED62
+Added Pin To Net: NetName=LED63 Pin=J10-8
+Added Pin To Net: NetName=LED63 Pin=U8-12
+Added Net: Name=LED63
+Added Pin To Net: NetName=LE Pin=J1-5
+Added Pin To Net: NetName=LE Pin=U1-4
+Added Pin To Net: NetName=LE Pin=U2-4
+Added Pin To Net: NetName=LE Pin=U3-4
+Added Pin To Net: NetName=LE Pin=U4-4
+Added Pin To Net: NetName=LE Pin=U5-4
+Added Pin To Net: NetName=LE Pin=U6-4
+Added Pin To Net: NetName=LE Pin=U7-4
+Added Pin To Net: NetName=LE Pin=U8-4
+Added Net: Name=LE
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-15
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-15
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-15
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U4-15
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U5-15
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U6-15
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U7-15
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U8-15
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=OE Pin=J1-7
+Added Pin To Net: NetName=OE Pin=U1-13
+Added Pin To Net: NetName=OE Pin=U2-13
+Added Pin To Net: NetName=OE Pin=U3-13
+Added Pin To Net: NetName=OE Pin=U4-13
+Added Pin To Net: NetName=OE Pin=U5-13
+Added Pin To Net: NetName=OE Pin=U6-13
+Added Pin To Net: NetName=OE Pin=U7-13
+Added Pin To Net: NetName=OE Pin=U8-13
+Added Net: Name=OE
+Added Pin To Net: NetName=SDI Pin=J1-3
+Added Pin To Net: NetName=SDI Pin=U1-2
+Added Pin To Net: NetName=SDI Pin=U2-2
+Added Pin To Net: NetName=SDI Pin=U3-2
+Added Pin To Net: NetName=SDI Pin=U4-2
+Added Pin To Net: NetName=SDI Pin=U5-2
+Added Pin To Net: NetName=SDI Pin=U6-2
+Added Pin To Net: NetName=SDI Pin=U7-2
+Added Pin To Net: NetName=SDI Pin=U8-2
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=J1-9
+Added Pin To Net: NetName=SDO Pin=U1-14
+Added Pin To Net: NetName=SDO Pin=U2-14
+Added Pin To Net: NetName=SDO Pin=U3-14
+Added Pin To Net: NetName=SDO Pin=U4-14
+Added Pin To Net: NetName=SDO Pin=U5-14
+Added Pin To Net: NetName=SDO Pin=U6-14
+Added Pin To Net: NetName=SDO Pin=U7-14
+Added Pin To Net: NetName=SDO Pin=U8-14
+Added Net: Name=SDO
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C9-2
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Pin To Net: NetName=VCC Pin=U2-16
+Added Pin To Net: NetName=VCC Pin=U3-16
+Added Pin To Net: NetName=VCC Pin=U4-16
+Added Pin To Net: NetName=VCC Pin=U5-16
+Added Pin To Net: NetName=VCC Pin=U6-16
+Added Pin To Net: NetName=VCC Pin=U7-16
+Added Pin To Net: NetName=VCC Pin=U8-16
+Added Net: Name=VCC
+Added Class: Name=mux_lowside-V1_00
+Added Room: Name=mux_lowside-V1_00
